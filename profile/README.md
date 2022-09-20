@@ -1,5 +1,5 @@
 # Optimise Multi-Channel Comms & Grow Your Business More Effectively
-![Hero Image](./hero.jpg)
+[![Hero Image](./hero.jpg)](https://everlytic.com)
 
 Everlytic is a digital messaging platform that helps your business communicate efficiently and personally via email, SMS, voice broadcasting, web push, and marketing automation – at scale.
 
