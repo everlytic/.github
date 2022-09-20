@@ -1,4 +1,4 @@
-# Optimise Multi-Channel Comms & Grow Your Business More Effectively
+# Optimise Multi-Channel Comms & Grow Your Business
 [![Hero Image](./profile/hero.jpg)](https://everlytic.com)
 
 Everlytic is a digital messaging platform that helps your business communicate efficiently and personally via email, SMS, voice broadcasting, web push, and marketing automation – at scale.
@@ -21,13 +21,13 @@ This is an engaging way to send time-sensitive messages with relevant content, o
 To learn more about Everlytic’s powerful messaging automation features, view our latest [demo video](https://www.youtube.com/watch?v=qq-QyinbyJ0).
 
 ## More About Everlytic as a Business
-Everlytic has a presence in both South Africa and the UK, and we’ve established ourselves as a major player in the automated messaging sector.
+Everlytic has a presence in South Africa and the UK, and we’ve established ourselves as a major player in automated messaging.
 
 In 2021, we were second runners-up for technology company of the year at Africa Tech Week, and in 2020 we were named one of the most promising African tech companies by CIO Review.
 
 ## Get in Touch with Everlytic
 
-Many well-known brands rely on Everlytic to build meaningful business relationships. Visit [everlytic.com](https://everlytic.com) or [contact us](https://www.everlytic.com/contact-our-team/) to see how you can too.
+Many well-known brands rely on Everlytic to build meaningful business relationships. Visit [everlytic.com](https://everlytic.com) or [contact us](https://www.everlytic.com/contact-our-team/) to learn how your business can benefit from using our platform.
 
 Tel.
 
